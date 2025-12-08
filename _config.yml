@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nikshay-jain.github.io"
+url: "https://nikshay-jain.github.io"  # main site url
 
 # Build settings
 markdown: kramdown
